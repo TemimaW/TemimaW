@@ -1,7 +1,7 @@
 
 
 <div style="position: relative; text-align: center;">
-  <img src="Futuristic_Background_Text_Smaller.png" alt="Background" style="width: 100%; max-width: 800px; border-radius: 10px;">
+  <img src="Futuristic_Background_GITHUB.png" alt="Background" style="width: 100%; max-width: 800px; border-radius: 10px;">
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #00d8ff; font-size: 2.5em; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);">
    
   </h1>
