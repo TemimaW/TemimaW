@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Temima Weinraub
 
 <!--
 **TemimaW/TemimaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Python, C#
+🌱 I’m currently learning Python, C#, Database, and Data Structures in College
+
 ⚡ Fun fact: Some of my hobbies are: music, art, and baking
+
+
+![Temima's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemimaW&show_icons=true&bg_color=ffffff&title_color=00d8ff&text_color=000000&icon_color=00ffcc&border_color=ffaa00)
