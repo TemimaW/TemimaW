@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Python, C#, Database, and Data Structures in College
+🌱 I’m currently learning Python, C#, Database, and Data Structures
 
 ⚡ Fun fact: Some of my hobbies are: music, art, and baking
 
