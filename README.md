@@ -1,11 +1,12 @@
 
 ### Software Developer in Training
-<div align="center" style="position: relative;">
-  <img src="./image.png" alt="Background" style="width: 100%; max-width: 600px; border-radius: 10px;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #ffffff; font-size: 3rem; font-family: Arial, sans-serif; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);">
-    ## Hi there 👋, I'm Temima Weinraub
+<div style="position: relative; text-align: center;">
+  <img src="Futuristic_Background_Image.png" alt="Background" style="width: 100%; max-width: 800px; border-radius: 10px;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #00d8ff; font-size: 2.5em; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);">
+    Temima Weinraub
   </h1>
 </div>
+
 
 <!--
 **TemimaW/TemimaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
